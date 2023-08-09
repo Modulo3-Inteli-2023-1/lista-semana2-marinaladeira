@@ -9,7 +9,10 @@ def conta_palavras_unicas(words):
 
 # Teste a sua função aqui (caso ache necessário)
 
-print(conta_palavras_unicas("banana maçã banana maçã laranja maçã banana"))
+print(conta_palavras_unicas("banana"))
+print(conta_palavras_unicas("banana maçã"))
+print(conta_palavras_unicas("banana maçã maçã"))
+print(conta_palavras_unicas("banana maçã banana maçã maçã banana"))
 
 
 
